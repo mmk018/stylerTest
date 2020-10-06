@@ -2,15 +2,20 @@
 
 shadow for any html element
 
-# instalation
+# installation
 
-`````
-npm i css-styler
-````
+```
+npm i cssstyler
+```
+
 after installing
 
-````
+```javascript
+import { cssstyler  } from cssstyler
+ cssstyler({blur:true, padding:true})
+```
 
+# options
 
-import {cssStyler} from cssStyler
-`````
+- blur
+- padding

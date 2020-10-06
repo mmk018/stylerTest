@@ -1,6 +1,6 @@
 {
   "name": "npm-test-cssstyler-max",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/mmk018/stylerTest/issues"
   },
-  "homepage": "https://github.com/mmk018/stylerTest#readme"
+  "homepage": "https://github.com/mmk018/stylerTest#readme",
+  "dependencies": {}
 }
