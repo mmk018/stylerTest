@@ -1,12 +1,19 @@
 {
-  "name": "npm-publish-example",
+  "name": "npm-test-cssstyler-max",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmk018/stylerTest.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmk018/stylerTest/issues"
+  },
+  "homepage": "https://github.com/mmk018/stylerTest#readme"
 }
